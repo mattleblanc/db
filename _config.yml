@@ -9,17 +9,18 @@ google_analytics:
 title: Jadefly Studios
 description: Short collection of insights and thoughts. Feel free to tag along, together we are strong.
 url: "http://jacobsalzberg.github.io/jadefly"
-twitter_username: 
-default_img: 
+twitter_username: jacobjsalzberg
+default_img: http://jademineresources.com/wp-content/uploads/2015/07/nephrite-jade-1.jpg
 
 # Profile settings
 name: Jadefly Studios
-profile_img: 
-profile: 
+profile_img: http://jademineresources.com/wp-content/uploads/2015/07/nephrite-jade-1.jpg
+profile: Short devlog. Feel free to tag along, although this is mostly for self-tracking and tracing.
 social:
   github: http://github.com/jacobsalzberg
   facebook: http://www.facebook.com/jacob.salzberg
   linkedin: http://www.linkedin.com/in/jacobsalzberg
+  twitter: https://twitter.com/jacobjsalzberg
   
 
 # Build settings
