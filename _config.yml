@@ -1,23 +1,26 @@
 # Site settings
-email: 
+email: jacob1818@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
+title: Jadefly Studios
+description: Short collection of insights and thoughts. Feel free to tag along, together we are strong.
+url: "http://jacobsalzberg.github.io/jadefly"
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: Jadefly Studios
 profile_img: 
 profile: 
 social:
-  github: 
+  github: http://github.com/jacobsalzberg
+  facebook: http://www.facebook.com/jacob.salzberg
+  linkedin: http://www.linkedin.com/in/jacobsalzberg
+  
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
