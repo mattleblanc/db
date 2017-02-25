@@ -13,8 +13,8 @@ twitter_username: jacobjsalzberg
 default_img: http://jademineresources.com/wp-content/uploads/2015/07/nephrite-jade-1.jpg
 
 # Profile settings
-name: Jacob's ... blog(?)
-profile_img: "/static/profile_img.jpg"
+name: Jacob's blog(?)
+profile_img: /static/profile_img.jpg
 profile: Hello my name is Jacob. I was born in Sao Paulo. Welcome to my world.
 social:
   github: http://github.com/jacobsalzberg
