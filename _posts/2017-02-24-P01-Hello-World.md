@@ -23,7 +23,10 @@ I'll keep this updated for the sake of my mental health. Also, it's a decent too
 #### My first blog: About my day
 I took most of the day off to find out how to get this *stupid* blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll.
 
-![CL4PT4P](https://m.popkey.co/530e0a/XRjLe.gif "Hey there")
+![CL4PTR4P](https://m.popkey.co/530e0a/XRjLe.gif "Hey there")
+ <div align="center">
+  Heya, CL4PTR4P
+</div> 
 
 
 
@@ -72,7 +75,7 @@ This will be a really tough ride. As hard as it will be, I'll do my best and be 
 ***
 ***
 
-![Path](/static/path_2000.jpg)
+![Path](http://jacobsalzberg.github.io/db/static/path_2000.jpg)
 
 (by k04sk: [DA](http://k04sk.deviantart.com/art/Path-333698884))
 
