@@ -1,6 +1,6 @@
 # Site settings
 email: jacob1818@gmail.com
-baseurl: "https://jacobsalzberg.github.io/db"
+baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics:
