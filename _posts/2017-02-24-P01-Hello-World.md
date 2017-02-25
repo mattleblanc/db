@@ -59,7 +59,7 @@ And that's it. Blog is running really fine.<br><br>
 I really need to work on my multi-tasking skills. I "tunnel" (short of "tunnel vision": <i>[informal] the tendency to focus exclusively on a single or limited goal or point of view</i>) too much if there's an issue - if I can't get it solved, I keep trying over and over and over, even if I should be doing something else. This is (somewhat) fine, but not if I'm not moving on the direction of fixing the given issue.
 </div>
 <br><br>
-### Blog plans and Ending<br><br>
+### Blog plans<br><br>
 As for now, I'll start with two blog categories:
 * Personal, for my personal updates (yes, as if it was impossible to guess what it was about with such a creative name) and;
 * DevBlog, for game-specific updates;
@@ -70,7 +70,8 @@ Let's see how it goes. Just to make this pretty, I'll add a quote:
 <blockquote>"Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind."  
 <cite>Henri Frederic Amiel</cite></blockquote>
 
-This will be a really tough ride. As hard as it will be, I'll do my best and be kind to those around me. Thanks for your time.
+This will be a really tough ride. As hard as it will be, I'll do my best and be kind to those around me. 
+Thanks for your time.
 
 ***
 ***
