@@ -7,10 +7,10 @@ google_analytics:
 
 # SEO settings
 title: Jacob's .. blog(?)
-description: Short collection of insights and thoughts. Feel free to tag along, together we are strong.
+description: Short collection of insights and thoughts. Feel free to tag along.
 url: "http://jacobsalzberg.github.io/db"
 twitter_username: jacobjsalzberg
-default_img: http://jademineresources.com/wp-content/uploads/2015/07/nephrite-jade-1.jpg
+default_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
 
 # Profile settings
 name: Jacob's blog(?)
