@@ -16,17 +16,11 @@ image-sm: http://jacobsalzberg.github.io/db/static/path_500.jpg
 ---
 <br><br>
 
-### Why are we here?<br>
-<div align="justify">
-I'll keep this updated for the sake of my mental health. Also, it's a decent tool to keep track of my skills development and general life hacks or just random rant. Most developers have a blog so.. why the hell can't I have one too? I feel like I'm talking to myself, but venting out definitely helps. </div>
-
 ### Why are we here?<br><br>
 <div align="justify">
 I'll keep this updated for the sake of my mental health. Also, it's a decent tool to keep track of my skills development and general life hacks or just random rant. Most developers have a blog so.. why the hell can't I have one too? I feel like I'm talking to myself, but venting out definitely helps. </div>
+<br><br>
 
-### Why are we here?    
-<div align="justify">
-I'll keep this updated for the sake of my mental health. Also, it's a decent tool to keep track of my skills development and general life hacks or just random rant. Most developers have a blog so.. why the hell can't I have one too? I feel like I'm talking to myself, but venting out definitely helps. </div>
 
 
 #### My first blog: About my day
@@ -62,10 +56,12 @@ But oh well, at last, the blog is running _silky smooth_. After getting the them
 
 And that's it. Blog is running really fine.<br>
 
-### Lessons Learned
-I really need to work on my multi-tasking skills. I "tunnel" (short of "tunnel vision": *[informal] the tendency to focus exclusively on a single or limited goal or point of view*) too much if there's an issue - if I can't get it solved, I keep trying over and over and over, even if I should be doing something else. This is (somewhat) fine, but not if I'm not moving on the direction of fixing the given issue.
-
-### Blog plans and Ending
+### Lessons Learned<br><br>
+<div align="justify">
+I really need to work on my multi-tasking skills. I "tunnel" (short of "tunnel vision": <i>[informal] the tendency to focus exclusively on a single or limited goal or point of view</i>) too much if there's an issue - if I can't get it solved, I keep trying over and over and over, even if I should be doing something else. This is (somewhat) fine, but not if I'm not moving on the direction of fixing the given issue.
+</div>
+<br><br>
+### Blog plans and Ending<br><br>
 As for now, I'll start with two blog categories:
 * Personal, for my personal updates (yes, as if it was impossible to guess what it was about with such a creative name) and;
 * DevBlog, for game-specific updates;
