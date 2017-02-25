@@ -69,8 +69,10 @@ This will be a really tough ride. As hard as it will be, I'll do my best and be 
 ***
 ***
 ### About the header's painting 
+***
+***
 
-![Path](http://jacobsalzberg.github.io/db/static/path_2000.jpg)
+![Path](/static/path_2000.jpg)
 
 (by k04sk: [DA](http://k04sk.deviantart.com/art/Path-333698884))
 
