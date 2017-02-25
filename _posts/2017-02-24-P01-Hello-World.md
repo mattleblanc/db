@@ -70,6 +70,8 @@ This will be a really tough ride. As hard as it will be, I'll do my best and be 
 ***
 ###About the Header Art 
 
+![Path](http://jacobsalzberg.github.io/db/static/path_500.jpg)
+
 (by k04sk: [DA](http://k04sk.deviantart.com/art/Path-333698884))
 
 Judging by the angle, this great painting is actually really interesting. At first, what gives the impression of just being a perspective mistake, is in fact what gives the greatness to this piece of art. The steps do not get narrower across the stairs - they do, however, keep the same width, no matter how many of them one has actually climbed. The same can be said about their height - they all seem to be the same, which means they're only getting higher.
