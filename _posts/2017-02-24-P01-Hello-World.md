@@ -10,9 +10,9 @@ image-sm: http://jacobsalzberg.github.io/db/static/path_500.jpg
 ---
 
 
-# "Hello, world."<br>
+# "Hello, world."<br><br>
 ---
-###  >>SAO PAULO, FEB. 24th 2017<<
+###  >> SAO PAULO, FEB. 24th 2017 <<
 ---
 <br><br>
 
