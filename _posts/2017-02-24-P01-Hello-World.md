@@ -68,14 +68,14 @@ This will be a really tough ride. As hard as it will be, I'll do my best and be 
 
 ***
 ***
-###About the Header Art 
+###About the header's painting 
 
 ![Path](http://jacobsalzberg.github.io/db/static/path_500.jpg)
 
 (by k04sk: [DA](http://k04sk.deviantart.com/art/Path-333698884))
 
-Judging by the angle, this great painting is actually really interesting. At first, what gives the impression of just being a perspective mistake, is in fact what gives the greatness to this piece of art. The steps do not get narrower across the stairs - they do, however, keep the same width, no matter how many of them one has actually climbed. The same can be said about their height - they all seem to be the same, which means they're only getting higher.
+Judging by the angle, this great painting is actually really interesting. At first, what gives the impression of just being a perspective mistake (indeed it is really an illustration mistake, but that's not the relevant point here), is in fact what gives the greatness to this piece of art. The steps do not get narrower across the stairs - they do, however, keep the same width, no matter how many of them one has actually climbed. The same can be said about their height - they all seem to be the same.
 
-Thinking about simple optics, the steps are *de facto* getting larger and wider. We can think about life and what comes across our path in the same way. Seems like a really daunting and steep path at first.. and it might actually be so. Or it might just be a perspective mistake. This is a really deep composition.
+Thinking about simple optics, the steps are *de facto* getting wider and higher. We can think about life and what comes across our path in the same way. Seems like a really daunting and steep path at first.. and it might actually be so. Or it might just be a perspective mistake. This is a really deep composition.
 
 
