@@ -51,9 +51,10 @@ It was a pretty rough ride as I had a lot of issues with gems, mostly related to
   * **sudo git add .** - adds all .html files and other files that were generated
   * **sudo git commit -m "random commit message"** - commits the changes
   * **sudo git push -u origin gh-pages** - pushes them to github
-
+<div align="justify">
 Alternativelly, I can just get on github on W10 (seems like I'll be doing this as it's the fastest way), go to my <b>gh-pages</b> branch of my repository, go to the `/_posts/` folder and just create a MARKDOWN file inside of it with my post.
 And that's it, github and jekyll handles the rest. Blog is running really fine. Worth the effort, <i>I guess</i>. <br><br>
+</div>
 
 ### Lessons Learned<br><br>
 <div align="justify">
@@ -80,7 +81,7 @@ Thanks for your time.
 
 <figure>
   <img src="http://jacobsalzberg.github.io/db/static/path_2000.jpg" />
-  <figcaption>by k04sk:  <a href="http://k04sk.deviantart.com/art/Path-333698884" title="Deviant"> [DA]</a> </figcaption>
+  <figcaption>Painting by k04sk:  <a href="http://k04sk.deviantart.com/art/Path-333698884" title="Deviant"> [DA]</a> </figcaption>
 </figure>
 
 Judging by the angle, this great painting is actually really interesting. At first, what gives the impression of just being a perspective mistake (indeed it is really an illustration mistake, but that's not the relevant point here), is in fact what gives the greatness to this piece of art. The steps do not get narrower across the stairs - they do, however, keep the same width, no matter how many of them one has actually climbed. The same can be said about their height - they all seem to be the same.
