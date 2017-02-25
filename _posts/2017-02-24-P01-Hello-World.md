@@ -5,8 +5,8 @@ date: 2017-02-24
 categories:
   - Personal
 description:
-image: /static/path_2000.jpg
-image-sm: /static/path_500.jpg
+image: http://jacobsalzberg.github.io/db/static/path_2000.jpg
+image-sm: http://jacobsalzberg.github.io/db/static/path_500.jpg
 ---
 
 
@@ -42,7 +42,7 @@ But oh well, at last, the blog is running _silky smooth_. After getting the them
 3. On linux (given you're already on the correct brach, which should be **gh-pages**):
   * **sudo git status** - check if the files were upload properly
   * **sudo git pull**   - clones the changes the local folder
-  * **sudo bundle exec jekyll build**  - builds the blog ![Alt](/static/bexec.png "Hello, terminal!")
+  * **sudo bundle exec jekyll build**  - builds the blog ![Alt](http://jacobsalzberg.github.io/db/static/bexec.png "Hello, terminal!")
   * **sudo git add .** - adds all .html files and other files that were generated
   * **sudo git commit -m "random commit message"** - commits the changes
   * **sudo git push -u origin gh-pages** - pushes them to github
