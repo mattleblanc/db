@@ -14,7 +14,7 @@ default_img: http://jademineresources.com/wp-content/uploads/2015/07/nephrite-ja
 
 # Profile settings
 name: Jacob's blog(?)
-profile_img: /static/profile_img.jpg
+profile_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
 profile: Hello my name is Jacob. I was born in Sao Paulo. Welcome to my world.
 social:
   github: http://github.com/jacobsalzberg
