@@ -40,7 +40,7 @@ I took most of the day off to find out how to get this <i>stupid</i> blog rollin
 <div align="justify">
 It was a pretty rough ride as I had a lot of issues with gems, mostly related to bad documentation on the theme's end and I had zero previous experience with this. I ended up fixing my problems by using <b>sudo bundle update</b> after cloning the theme's source repo. It literally took me about 4 hours of tweaking and face-smashing the terminal to get this ready, as the general fix-suggestions made no sense.
 </div>
-But oh well, at last, the blog is running <i>silky smooth</i>. After getting the theme all sorted and github pages ready, here's the flow I'll be using to post on it:
+<br>But oh well, at last, the blog is running <i>silky smooth</i>. After getting the theme all sorted and github pages ready, here's what I needed to get a build going from linux:
 
 1. Fully edit the post on W10 using Haroopad or atom (it's faster, better keyboard than my laptop);
 2. Manually upload the post to github it's faster than using git bash also the images in the static folder;
@@ -52,7 +52,8 @@ But oh well, at last, the blog is running <i>silky smooth</i>. After getting the
   * **sudo git commit -m "random commit message"** - commits the changes
   * **sudo git push -u origin gh-pages** - pushes them to github
 
-And that's it. Blog is running really fine.<br><br>
+Alternativelly, I can just get on github on W10 (seems like I'll be doing this as it's the fastest way), go to my <b>gh-pages</b> branch of my repository, go to the `/_posts/` folder and just create a MARKDOWN file inside of it with my post.
+And that's it, github and jekyll handles the rest. Blog is running really fine. Worth the effort, <i>I guess</i> <br><br>
 
 ### Lessons Learned<br><br>
 <div align="justify">
