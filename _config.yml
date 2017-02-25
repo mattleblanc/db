@@ -1,12 +1,12 @@
 # Site settings
 email: jacob1818@gmail.com
-baseurl: "/db/"
+baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics:
 
 # SEO settings
-title: Jacob's ... blog(?)
+title: Jacob's .. blog(?)
 description: Short collection of insights and thoughts. Feel free to tag along, together we are strong.
 url: "http://jacobsalzberg.github.io/db"
 twitter_username: jacobjsalzberg
@@ -15,7 +15,7 @@ default_img: http://jademineresources.com/wp-content/uploads/2015/07/nephrite-ja
 # Profile settings
 name: Jacob's blog(?)
 profile_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
-profile: Hello my name is Jacob. I was born in Sao Paulo. Welcome to my world.
+profile: Hello my name is Jacob. I was born in Sao Paulo. Welcome to my world. I'm using this blog mostly as a relief tool and to keep track of my progress. Hop on!
 social:
   github: http://github.com/jacobsalzberg
   facebook: http://www.facebook.com/jacob.salzberg
