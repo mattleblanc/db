@@ -10,7 +10,7 @@ image-sm: http://jacobsalzberg.github.io/db/static/path_500.jpg
 ---
 
 
-# "Hello, world."
+# "Hello, world."<br>
 ---
 ###  >>SAO PAULO, FEB. 24th 2017<<
 ---
@@ -21,9 +21,7 @@ image-sm: http://jacobsalzberg.github.io/db/static/path_500.jpg
 I'll keep this updated for the sake of my mental health. Also, it's a decent tool to keep track of my skills development and general life hacks or just random rant. Most developers have a blog so.. why the hell can't I have one too? I feel like I'm talking to myself, but venting out definitely helps. </div>
 <br><br>
 
-
-
-#### My first blog: About my day
+#### My first blog: About my day<br><br>
 <div align="justify">
 I took most of the day off to find out how to get this <i>stupid</i> blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll.
 </div>
@@ -39,10 +37,10 @@ I took most of the day off to find out how to get this <i>stupid</i> blog rollin
 * **Jekyll + Bundler** general usage;
 * Adding **Gem-Based themes**;
 * **Markdown** (.md) synax - it's ultra easy, it's the synax im using to write this post with. It pretty much converts given symbols into html, making it ultra readable;
-
-It was a pretty rough ride as I had a lot of issues with gems, mostly related to bad documentation on the theme's end and I had zero previous experience with this. I ended up fixing my problems by using `sudo bundle update` after cloning the theme's source repo. It literally took me about 4 hours of tweaking and face-smashing the terminal to get this ready, as the general fix-suggestions made no sense.
-
-But oh well, at last, the blog is running _silky smooth_. After getting the theme all sorted and github pages ready, here's the flow I'll be using to post on it:
+<div align="justify">
+It was a pretty rough ride as I had a lot of issues with gems, mostly related to bad documentation on the theme's end and I had zero previous experience with this. I ended up fixing my problems by using <b>sudo bundle update</b> after cloning the theme's source repo. It literally took me about 4 hours of tweaking and face-smashing the terminal to get this ready, as the general fix-suggestions made no sense.
+</div>
+But oh well, at last, the blog is running <i>silky smooth</i>. After getting the theme all sorted and github pages ready, here's the flow I'll be using to post on it:
 
 1. Fully edit the post on W10 using Haroopad or atom (it's faster, better keyboard than my laptop);
 2. Manually upload the post to github it's faster than using git bash also the images in the static folder;
@@ -54,7 +52,7 @@ But oh well, at last, the blog is running _silky smooth_. After getting the them
   * **sudo git commit -m "random commit message"** - commits the changes
   * **sudo git push -u origin gh-pages** - pushes them to github
 
-And that's it. Blog is running really fine.<br>
+And that's it. Blog is running really fine.<br><br>
 
 ### Lessons Learned<br><br>
 <div align="justify">
