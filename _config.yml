@@ -3,7 +3,7 @@ email: jacob1818@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
 title: Jadefly Studios
@@ -13,15 +13,15 @@ twitter_username: jacobjsalzberg
 default_img: http://jademineresources.com/wp-content/uploads/2015/07/nephrite-jade-1.jpg
 
 # Profile settings
-name: Jadefly Studios
-profile_img: http://jademineresources.com/wp-content/uploads/2015/07/nephrite-jade-1.jpg
-profile: Short devlog. Feel free to tag along, although this is mostly for self-tracking and tracing.
+name: Jacob's ... blog(?)
+profile_img: "/static/profile_img.jpg"
+profile: Hello my name is Jacob. I was born in Sao Paulo. Welcome to my world.
 social:
   github: http://github.com/jacobsalzberg
   facebook: http://www.facebook.com/jacob.salzberg
   linkedin: http://www.linkedin.com/in/jacobsalzberg
   twitter: https://twitter.com/jacobjsalzberg
-  
+
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
