@@ -24,9 +24,13 @@ I'll keep this updated for the sake of my mental health. Also, it's a decent too
 I took most of the day off to find out how to get this *stupid* blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll.
 
 
+![CL4PTR4P]( "Hey there")
+ <div align="center">
+  Heya, 
+</div> 
 <figure>
-  <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
+  <img src="https://m.popkey.co/530e0a/XRjLe.gif" alt="Hey there!"/>
+  <figcaption>This is how you are seen, Mr. Blog. I hope you enjoy really steep stairs (Borderlands II joke).</figcaption>
 </figure>
 
 
