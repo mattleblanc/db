@@ -23,12 +23,11 @@ I'll keep this updated for the sake of my mental health. Also, it's a decent too
 #### My first blog: About my day
 I took most of the day off to find out how to get this *stupid* blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll.
 
-![CL4PTR4P](https://m.popkey.co/530e0a/XRjLe.gif "Hey there")
- <div align="center">
-  Heya, CL4PTR4P
-</div> 
 
-
+<figure>
+  <img src="https://unsplash.it/2000/1200?image=1003" alt="Placeholder"/>
+  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
+</figure>
 
 
 * Basic **rewind on Linux** - I decided to install mint 18.1 with cinnamon. I had some experience but I had to get used to the terminal again;
@@ -72,8 +71,7 @@ This will be a really tough ride. As hard as it will be, I'll do my best and be 
 ***
 ***
 ### About the header's painting 
-***
-***
+
 
 ![Path](http://jacobsalzberg.github.io/db/static/path_2000.jpg)
 
