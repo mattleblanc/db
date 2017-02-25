@@ -25,10 +25,11 @@ I took most of the day off to find out how to get this *stupid* blog rolling (he
 
 ![CL4PT4P](https://m.popkey.co/530e0a/XRjLe.gif "Hey there")
 
-So I pretty much ended up learning:
+
+
 
 * Basic **rewind on Linux** - I decided to install mint 18.1 with cinnamon. I had some experience but I had to get used to the terminal again;
-* **Gi**t usage on bash (mint's gnome based terminal)
+* **Git** usage on bash (mint's gnome based terminal)
 * **Jekyll + Bundler** general usage;
 * Adding **Gem-Based themes**;
 * **Markdown** (.md) synax - it's ultra easy, it's the synax im using to write this post with. It pretty much converts given symbols into html, making it ultra readable;
@@ -60,7 +61,10 @@ As for now, I'll start with two blog categories:
 <br>
 Let's see how it goes. Just to make this pretty, I'll add a quote:
 
-<blockquote>Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind.  
+<blockquote>"Life is short and we have never too much time for gladdening the hearts of those who are travelling the dark journey with us. Oh be swift to love, make haste to be kind."  
 <cite>Henri Frederic Amiel</cite></blockquote>
 
 This will be a really tough ride. As hard as it will be, I'll do my best and be kind to those around me. Thanks for your time.
+
+***
+PS: Art is by k04sk: [DA](http://k04sk.deviantart.com/art/Path-333698884)
