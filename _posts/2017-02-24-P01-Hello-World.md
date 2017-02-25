@@ -53,7 +53,7 @@ It was a pretty rough ride as I had a lot of issues with gems, mostly related to
   * **sudo git push -u origin gh-pages** - pushes them to github
 
 Alternativelly, I can just get on github on W10 (seems like I'll be doing this as it's the fastest way), go to my <b>gh-pages</b> branch of my repository, go to the `/_posts/` folder and just create a MARKDOWN file inside of it with my post.
-And that's it, github and jekyll handles the rest. Blog is running really fine. Worth the effort, <i>I guess</i> <br><br>
+And that's it, github and jekyll handles the rest. Blog is running really fine. Worth the effort, <i>I guess</i>. <br><br>
 
 ### Lessons Learned<br><br>
 <div align="justify">
