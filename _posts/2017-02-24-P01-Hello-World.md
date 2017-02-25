@@ -5,8 +5,8 @@ date: 2017-02-24
 categories:
   - Personal
 description:
-image: "/static/path_2000.jpg"
-image-sm: "/static/path_500.jpg"
+image: /static/path_2000.jpg
+image-sm: /static/path_500.jpg
 ---
 
 
