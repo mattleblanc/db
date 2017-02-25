@@ -27,7 +27,7 @@ I took most of the day off to find out how to get this <i>stupid</i> blog rollin
 </div>
  
 <figure>
-  <img src="https://m.popkey.co/530e0a/XRjLe.gif" alt="Hey there!"/>
+  <img src="https://m.popkey.co/530e0a/XRjLe.gif"/>
   <figcaption>This is how you are seen, Mr. Blog. I hope you enjoy really steep stairs (Borderlands II joke).</figcaption>
 </figure>
 
@@ -78,10 +78,10 @@ Thanks for your time.
 ***
 ### About the header's painting 
 
-
-![Path](http://jacobsalzberg.github.io/db/static/path_2000.jpg)
-
-(by k04sk: [DA](http://k04sk.deviantart.com/art/Path-333698884))
+<figure>
+  <img src="http://jacobsalzberg.github.io/db/static/path_2000.jpg" />
+  <figcaption>by k04sk:  <a href="http://k04sk.deviantart.com/art/Path-333698884" title="Deviant"> [DA]</a> </figcaption>
+</figure>
 
 Judging by the angle, this great painting is actually really interesting. At first, what gives the impression of just being a perspective mistake (indeed it is really an illustration mistake, but that's not the relevant point here), is in fact what gives the greatness to this piece of art. The steps do not get narrower across the stairs - they do, however, keep the same width, no matter how many of them one has actually climbed. The same can be said about their height - they all seem to be the same.
 
