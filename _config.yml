@@ -6,7 +6,7 @@ paginate_path: "/blog/page-:num"
 google_analytics:
 
 # SEO settings
-title: Jadefly Studios
+title: Jacob's ... blog(?)
 description: Short collection of insights and thoughts. Feel free to tag along, together we are strong.
 url: "http://jacobsalzberg.github.io/db"
 twitter_username: jacobjsalzberg
