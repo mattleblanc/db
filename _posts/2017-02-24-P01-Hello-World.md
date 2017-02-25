@@ -16,15 +16,15 @@ image-sm: http://jacobsalzberg.github.io/db/static/path_500.jpg
 ---
 <br><br>
 
-### Why are we here?
+### Why are we here?<br>
 <div align="justify">
-I'll keep this updated for the sake of my mental health. Also, it's a decent tool to keep track of my skills development and general life hacks or just random rant. Most developers have a blog so.. why the hell can't I have one too? I feel like I'm talking to myself, but venting out definitely helps.</div> 
+I'll keep this updated for the sake of my mental health. Also, it's a decent tool to keep track of my skills development and general life hacks or just random rant. Most developers have a blog so.. why the hell can't I have one too? I feel like I'm talking to myself, but venting out definitely helps.
 
 
 #### My first blog: About my day
 I took most of the day off to find out how to get this *stupid* blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll.
 
-
+</div> 
 <figure>
   <img src="https://m.popkey.co/530e0a/XRjLe.gif" alt="Hey there!"/>
   <figcaption>This is how you are seen, Mr. Blog. I hope you enjoy really steep stairs (Borderlands II joke).</figcaption>
