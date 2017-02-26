@@ -18,12 +18,12 @@ profile_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
 profile: Jacob was born in Sao Paulo and feels really detached. Full time "Indie" Developer, former engineer. Welcome to his world. This blog is mostly used as a relief tool and as a progress tracker (personal and project related). Hop on!
 social:
   github: http://github.com/jacobsalzberg
+  steam: http://steamcommunity.com/id/jacobjames/
   facebook: http://www.facebook.com/jacob.salzberg
   linkedin: http://www.linkedin.com/in/jacobsalzberg
   twitter: https://twitter.com/jacobjsalzberg
   google-plus: https://plus.google.com/u/0/+JacobS1818
-  instagram:
-  steam: http://steamcommunity.com/id/jacobjames/
+  
 
 
 # Build settings
