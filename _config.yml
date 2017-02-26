@@ -13,7 +13,7 @@ twitter_username: jacobjsalzberg
 default_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
 
 # Profile settings
-name: Jacob's blog(?)
+name: Jacob J. Salzberg
 profile_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
 profile: Jacob was born in Sao Paulo and feels really detached. Full time "Indie" Developer, former engineer. Welcome to his world. This blog is mostly used as a relief tool and as a progress tracker (personal and project related). Hop on!
 social:
@@ -25,8 +25,8 @@ social:
   google-plus: https://plus.google.com/u/0/+JacobS1818
   
 
-
 # Build settings
+include: ["_categories"]
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
