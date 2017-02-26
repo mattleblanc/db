@@ -15,7 +15,7 @@ default_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
 # Profile settings
 name: Jacob's blog(?)
 profile_img: "https://jacobsalzberg.github.io/db//static/profile_img.jpg"
-profile: Jacob was born in Sao Paulo and feels really detached. Welcome to his world. Full time "Indie" Developer, former engineer. This blog is mostly used as a relief tool and as a progress tracker (personal and project related). Hop on!
+profile: Jacob was born in Sao Paulo and feels really detached. Full time "Indie" Developer, former engineer. Welcome to his world. This blog is mostly used as a relief tool and as a progress tracker (personal and project related). Hop on!
 social:
   github: http://github.com/jacobsalzberg
   facebook: http://www.facebook.com/jacob.salzberg
