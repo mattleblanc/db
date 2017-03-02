@@ -23,7 +23,7 @@ I'll keep this updated for the sake of my mental health. Also, it's a decent too
 
 #### My first blog: About my day<br><br>
 <div align="justify">
-I took most of the day off to find out how to get this <i>stupid</i> blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll.
+I took most of the day off to find out how to get this <i>stupid</i> blog rolling (hello there, let's try to be friends, Mr. CL4PTR4P). In order to do so, as I found a great Jekyll theme, I had to setup linux on my laptop as it's required for Jekyll. So, in order to get the blog working, I had to work on some new skills and try to "unzip" some that were hiding somewhere in my brain.
 </div>
  
 <figure>
@@ -31,10 +31,10 @@ I took most of the day off to find out how to get this <i>stupid</i> blog rollin
   <figcaption>This is how you are seen, Mr. Blog. I hope you enjoy really steep stairs (Borderlands II joke).</figcaption>
 </figure>
 
-So, in order to get the blog working, I had to work on the following skills:
-</div>
 
-#### Skill Improvements:
+
+
+#### Skill Improvements:<br><br>
 
 * Basic **rewind on Linux** - I decided to install mint 18.1 with cinnamon. I had some experience but I had to get used to the terminal again;
 * **Git** usage on bash (mint's gnome based terminal)
