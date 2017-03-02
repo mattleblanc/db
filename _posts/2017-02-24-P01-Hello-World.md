@@ -31,6 +31,10 @@ I took most of the day off to find out how to get this <i>stupid</i> blog rollin
   <figcaption>This is how you are seen, Mr. Blog. I hope you enjoy really steep stairs (Borderlands II joke).</figcaption>
 </figure>
 
+So, in order to get the blog working, I had to work on the following skills:
+</div>
+
+#### Skill Improvements:
 
 * Basic **rewind on Linux** - I decided to install mint 18.1 with cinnamon. I had some experience but I had to get used to the terminal again;
 * **Git** usage on bash (mint's gnome based terminal)
