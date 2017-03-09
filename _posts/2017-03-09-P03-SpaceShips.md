@@ -28,11 +28,11 @@ Here are some sample screenshots and a link to the game, if anyone wants to try.
 
 
  <figure>
-   <img src="https://jacobsalzberg.github.io/db/static/spaceships_01" />
-   <figcaption>Samir SpaceShips </figcaption>
+   <img src="https://jacobsalzberg.github.io/db/static/spaceships_01.png" />
+   <figcaption> SpaceShips </figcaption>
  </figure>
  <figure>
-   <img src="https://jacobsalzberg.github.io/db/static/spaceships_02" />
+   <img src="https://jacobsalzberg.github.io/db/static/spaceships_02.png" />
    <figcaption> SpaceShips </figcaption>
  </figure>
 
