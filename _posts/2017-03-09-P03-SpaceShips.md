@@ -23,6 +23,7 @@ Anyway, I took a couple days (around 2) to get a Space Invaders clone going on U
 
 Here are some sample screenshots and a link to the game, if anyone wants to try.
  </div>
+ <br><br>
 
  **1. SpaceShips (C#, Unity)**
 
